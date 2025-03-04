@@ -1,0 +1,15 @@
+.text-yellow-250 {
+    color: #fff54f;
+}
+
+.text-2-5xl {
+    font-size: 26px;
+}
+
+* {
+   font-family: 'Comic Sans', 'Comic Sans MS', 'cursive'; 
+}
+
+.title {
+    font-family: 'times', 'helvetic', 'comic sans';
+}
